@@ -3,7 +3,7 @@ an answer to a medical question on an online forum was from an expert or from a 
 
 Here is what I did:
 
-# RateMyAnswer — Expert vs. Non-Expert Health Answer Classifier
+# RateMyAnswer: Expert vs. Non-Expert Health Answer Classifier
 
 A machine learning pipeline that classifies whether a health forum answer was written by an expert or a non-expert, optimized for log-loss. This notebook won a private class Kaggle competition with a final log-loss of **0.03307**.
 
